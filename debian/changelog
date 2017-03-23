@@ -1,0 +1,5 @@
+cdebootstrap-helper-rc.d (1) stable; urgency=low
+
+  * Initial Release.
+
+ -- Josua Mayer <josua.mayer97@gmail.com>  Thu, 23 Mar 2017 19:31:24 +0000

@@ -1,0 +1,15 @@
+Source: cdebootstrap-helper-rc.d
+Section: admin
+Priority: optional
+Maintainer: Josua Mayer <josua.mayer97@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: <insert the upstream URL, if relevant>
+Vcs-Git: https://github.com/mxOBS/deb-pkg_cdebootstrap-helper-rc.d.git
+Vcs-Browser: https://github.com/mxOBS/deb-pkg_cdebootstrap-helper-rc.d
+
+Package: cdebootstrap-helper-rc.d
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: helper files for bootstrapping
+ Provides scripts that ensure smooth uninterrupted bootstrapping.
